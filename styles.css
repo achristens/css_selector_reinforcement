@@ -9,3 +9,7 @@ a:hover{
 h1{
   font-size: 60px;
 }
+
+.bear-pics {
+  display: inline-block;
+}

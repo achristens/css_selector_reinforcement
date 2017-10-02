@@ -5,3 +5,7 @@ p {
 a:hover{
   color: pink;
 }
+
+h1{
+  font-size: 60px;
+}
